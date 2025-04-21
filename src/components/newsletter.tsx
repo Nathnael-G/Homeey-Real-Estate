@@ -2,7 +2,7 @@ import React from 'react'
 
 function Newsletter() {
   return (
-    <div>newsletter</div>
+    <div className='flex h-full py-10 justify-center items-center'>newsletter</div>
   )
 }
 
