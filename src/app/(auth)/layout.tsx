@@ -1,9 +1,11 @@
-import React from 'react'
+import React from 'react';
 
-function layout() {
+const layout = ({ children }: { children: React.ReactNode }) => {
   return (
-    <div>layout</div>
-  )
-}
+    <div className="w-full">
+      {children}
+    </div>
+  );
+};
 
-export default layout
+export default layout;
