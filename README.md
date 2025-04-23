@@ -12,7 +12,7 @@ Welcome to the Homeey Real Estate Next.js project! This project is designed to p
 
 ## Installation
 
-1. Clone the repository: `git clone git@github.com:DevGrowthLab/estate-client.git`
+1. Clone the repository: `git clone https://github.com/Nathnael-G/Homeey-Real-Estate.git`
 2. Navigate to the project directory: `cd estate-client`
 3. Install dependencies: `npm install`
 4. Start the development server: `npm run dev`
